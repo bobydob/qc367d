@@ -56,7 +56,7 @@
 		const h = this._host();
 		return (
 		  h.includes('google.com') ||
-		  h.includes('n-s7rz26hkmnc2yshmagyfoth45ps6iirqumg4twy-0lu-script.googleusercontent.com') ||
+		  h.includes('googleusercontent.com') ||
 		  h.includes('googlesites.com')
 		);
 	  }
